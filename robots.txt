@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://manojrodhiyal300-pixel.github.io/surgery-medicine-consultation/sitemap.xml
